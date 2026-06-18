@@ -1,0 +1,5 @@
+node_modules/
+data/
+.DS_Store
+# QA screenshots captured at kiosk root — never commit (root only; asset PNGs are tracked)
+/*.png
